@@ -8,7 +8,7 @@
 ## 📱 실행 화면 (Screenshots)
 | 시작 화면 | 메인 대시보드 | 추가 다이얼로그 |
 | :---: | :---: | :---: |
-| (./<img width="350" height="626" alt="image" src="https://github.com/user-attachments/assets/7a567ce9-585e-4921-8902-7be8461c1987" />) | (./<img width="351" height="616" alt="image" src="https://github.com/user-attachments/assets/ce350b52-2cc8-4618-9003-e204a916777d" />) | (./<img width="363" height="625" alt="image" src="https://github.com/user-attachments/assets/7754c64f-4b6c-4b37-901b-df671723ecd4" />) |
+| <img width="350" height="626" alt="image" src="https://github.com/user-attachments/assets/7a567ce9-585e-4921-8902-7be8461c1987" /> | /<img width="351" height="616" alt="image" src="https://github.com/user-attachments/assets/ce350b52-2cc8-4618-9003-e204a916777d" /> | <img width="363" height="625" alt="image" src="https://github.com/user-attachments/assets/7754c64f-4b6c-4b37-901b-df671723ecd4" /> |
 
 ---
 
