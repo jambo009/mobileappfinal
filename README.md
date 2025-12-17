@@ -12,13 +12,10 @@
 
 ---
 
-## 📱 실행 화면 
+## 📱 실행 화면 (Screenshots)
 | 시작 화면 | 메인 대시보드 | 추가 다이얼로그 |
 | :---: | :---: | :---: |
-| ![시작](<img width="350" height="626" alt="image" src="https://github.com/user-attachments/assets/7a567ce9-585e-4921-8902-7be8461c1987" />) | ![메인](<img width="351" height="616" alt="image" src="https://github.com/user-attachments/assets/ce350b52-2cc8-4618-9003-e204a916777d" />
-) | ![추가](<img width="363" height="625" alt="image" src="https://github.com/user-attachments/assets/7754c64f-4b6c-4b37-901b-df671723ecd4" />
-) |
-> *주의: 이미지 파일명이 실제 파일명과 동일해야 하며, 같은 저장소 폴더 내에 있어야 합니다.*
+| ![시작](./<img width="350" height="626" alt="image" src="https://github.com/user-attachments/assets/7a567ce9-585e-4921-8902-7be8461c1987" />) | ![메인](./<img width="351" height="616" alt="image" src="https://github.com/user-attachments/assets/ce350b52-2cc8-4618-9003-e204a916777d" />) | ![추가](./<img width="363" height="625" alt="image" src="https://github.com/user-attachments/assets/7754c64f-4b6c-4b37-901b-df671723ecd4" />) |
 
 ---
 
